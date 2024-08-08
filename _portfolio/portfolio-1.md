@@ -1,6 +1,6 @@
 ---
 title: "Teaching Experience"
-permalink: portfolio/portfolio-1.md
+permalink: /portfolio/portfolio-1.md
 excerpt: "University of Kentucky, Department of Political Science"
 collection: portfolio
 ---
