@@ -3,5 +3,12 @@ title: "Teaching Experience"
 excerpt: "Primary Instructor"
 collection: portfolio
 ---
+- PS 391: Behavior, Identity, and Bias
+  University of Kentucky, Lexington, Kentucky, USA, Spring 2024
+- PS 210: Introduction to Comparative Politics
+  University of Kentucky, Lexington, Kentucky, USA, Fall 2023
+- PS 390: Film in Politics
+  University of Kentucky, Lexington, Kentucky, USA, Summer 2022
+- PS 101: Introduction to American Politics
+  University of Kentucky, Lexington, Kentucky, USA, Spring 2022
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
