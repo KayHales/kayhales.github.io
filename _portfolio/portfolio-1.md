@@ -1,6 +1,6 @@
 ---
 title: "Teaching Experience"
-excerpt: "Primary Instructor"
+excerpt: "University of Kentucky, Department of Political Science"
 collection: portfolio
 ---
 - PS 391: Behavior, Identity, and Bias
