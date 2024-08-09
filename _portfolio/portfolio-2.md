@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience"
+title: "Research"
 permalink: /portfolio/portfolio-3/
 excerpt: "University of Kentucky, Department of Political Science"
 collection: portfolio
@@ -21,4 +21,3 @@ Hales, Kay. “Scale Development and Validation of the LGBT Linked Fate (LGBT-LF
 Hales, Kay. ”Representing the Advantaged: State Legislative Responsiveness to White Identity.”  
 
 Hales, Kay. ”Modeling Small-Area Estimates of White Identity through Bayesian Multilevel Modeling with Variational Approximation."
-Variational Approximation.”
