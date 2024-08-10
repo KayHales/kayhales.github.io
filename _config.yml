@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kay Hales"
-  pronouns         : "they/them"  
+  pronouns         : # "they/them"  
   bio              : "Political Science PhD Candidate"
   location         : "Lexington, KY"
   employer         : "University of Kentucky"
