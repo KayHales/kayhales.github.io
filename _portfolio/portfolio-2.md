@@ -8,6 +8,8 @@ collection: portfolio
 ## Dissertation
 "LGBT People's Sense of Linked Fate: Belonging or Utility?"
 
+Do LGBT people have a sense of linked fate? If so, is it experienced across subgroups and what are the mechanisms for LGBT people's sense of linked fate? Linked fate is the sense that what happens to one's group will affect one directly. My dissertation uses a combination of quantitative, qualitative, and mixed-methods approaches to find evidence of LGBT people's sense of linked fate, conceptualize a unique theoretical framework, and develop a novel measurement for LGBT people's sense of linked fate. I argue that LGBT people's sense of linked fate is a function of both belonging and utility. The LGBT community's unique historic and contemporary experiences of social, political, and cultural stigmatization and exclusion, and LGBT people's sense of belonging within the LGBT community. 
+
 ## Manuscripts
 Hales, Kay & Riggle, Ellen. Under review. "One LGBT Community or Many: Linked Fate in LGBT People."  
 
