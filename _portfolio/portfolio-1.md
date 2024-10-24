@@ -6,6 +6,8 @@ collection: portfolio
 ---
 
 ## Primary Instructor
+- PS 360: Politics of Law and Courts
+  University of Kentucky, Lexington, Kentucky, USA, Spring 2025
 - PS 391: Behavior, Identity, and Bias
   University of Kentucky, Lexington, Kentucky, USA, Spring 2024
 - PS 210: Introduction to Comparative Politics
