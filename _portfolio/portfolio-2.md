@@ -37,4 +37,8 @@ Hales, Kay. “Scale Development and Validation of the LGBT Linked Fate (LGBT-LF
 
 Hales, Kay. ”Representing the Advantaged: State Legislative Responsiveness to White Identity.”  
 
+Hales, Kay. "Internalized Stigmatization, Externalized Stigmatization, and Linked Fate Among LGBTQ People."
+
+Cake, Hannah & Hales, Kay. "When is it Popular to be an Outsider? Populist Rhetoric and LGBTQ Legislation in State Legislatures."
+
 Hales, Kay. ”Modeling Small-Area Estimates of White Identity through Bayesian Multilevel Modeling with Variational Approximation."
