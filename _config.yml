@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kay Hales"
+title                    : "PhD"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kay Hales"
 description              : &description "personal description"
 url                      : https://kayhales.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,11 +24,11 @@ author:
   avatar           : "image000001.jpeg"
   name             : "Kay Hales"
   pronouns         : "they/them"  
-  bio              : "Political Science PhD Candidate"
+  bio              : "Postdoctoral Scholar"
   location         : "Lexington, KY"
-  employer         : "University of Kentucky"
+  employer         : "Transylvania University"
   uri              : # URL
-  email            : "kayhales@uky.edu" 
+  email            : "khales@transy.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
