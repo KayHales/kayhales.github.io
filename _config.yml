@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "PhD"
+title                    : "Kay Hales"
 title_separator          : "-"
-name                     : &name "Kay Hales"
+name                     : &name ""
 description              : &description "personal description"
 url                      : https://kayhales.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "KayHales/kayhales.github.io"
 author:
   # Biographic information
   avatar           : "image000001.jpeg"
-  name             : "Kay Hales"
+  name             : "Kay Hales, Ph.D."
   pronouns         : "they/them"  
   bio              : "Postdoctoral Scholar"
   location         : "Lexington, KY"
