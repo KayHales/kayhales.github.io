@@ -5,6 +5,8 @@ excerpt: "University of Kentucky, Department of Political Science"
 collection: portfolio
 ---
 
+[Featured project: Reading the Game](/portfolio/trackman/)
+
 ## Primary Instructor
 - PS 360: Politics of Law and Courts
   University of Kentucky, Lexington, Kentucky, USA, Spring 2025
