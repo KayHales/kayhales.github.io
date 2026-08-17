@@ -25,7 +25,7 @@ Pronoun sharing is a situated decision rather than a uniform disclosure. In a sa
 
 Linked fate has been central to research on political behavior and group consciousness, but its application beyond race has raised theoretical and methodological concerns. Despite growing evidence of political cohesion among LGBTQ people, existing research relies almost exclusively on Dawson's (1994) measure, which may not capture group-specific experiences or multidimensional structure. Drawing on prior qualitative research, we develop an item pool and use exploratory factor analysis in a sample of LGBTQ adults (n = 435) to identify two dimensions: Belonging and Utility. We confirm this structure in an independent sample (n = 289) using confirmatory factor analysis and validate the scale using tests of measurement invariance, discriminant validity, and incremental validity. The resulting 12-item scale exhibits strong reliability and validity, and the two dimensions show distinct patterns of predictive validity: Belonging is more strongly associated with intra-group affect, whereas Utility predicts willingness to engage in collective action and beliefs about discrimination.
 
-**Hales, K.** "Modeling Heterogeneity in Sparse Groups with Bayesian Multilevel Inference." 
+**Hales, K.** "Modeling Heterogeneity in Sparse Groups with Bayesian Multilevel Inference using Compositionally Adjusted Borrowing." 
 
 Repeated cross-sectional surveys of small populations are individually underpowered but collectively informative. Straightforward historical borrowing, however, assumes that waves are interchangeable, which fails when a population's observed composition changes over time: more recent LGBTQ+ samples are younger, more likely to identify as bisexual, and differently distributed on politically relevant characteristics. This paper develops a composition-adjusted approach that shares information across surveys without assuming exchangeability, allowing reliable inference about subgroups that no single survey can support.
 
@@ -35,10 +35,10 @@ Repeated cross-sectional surveys of small populations are individually underpowe
 **Hales, K.** "Modeling Small-Area Estimates of White Identity through Bayesian Multilevel Modeling with Variational Approximation."
 
 ## Working papers 
-**Hales, K.** "Ideology, Party Coalitions, and LGBQ+ Americans."
+**Hales, K.** "Conservative, but not a Republican: The Ideology-Partisan Link in LGBQ+ People."
 
 **Hales, K.** "Through Thick and Thin: How LGBTQ People's Sense of Linked Fate Is Differentially Activated by Negative and Positive Stimuli."
 
-Cake, H., & **Hales, K.** "When Is It Popular to Be an Outsider? Populist Rhetoric and LGBTQ Legislation in State Legislatures."
+**Hales, K.** "Who Governs? The Relationship between LGB People's Political Power and Transgender Rights."
 
-**Hales, K.** "Substance-Specific Overdose Mortality and Nonfatal Hospitalizations across Kentucky Counties."
+**Hales, K.** "Substance-Specific Overdose Mortality and Nonfatal Hospitalizations in Kentucky Counties: Evidence from BYM2 Models. "
