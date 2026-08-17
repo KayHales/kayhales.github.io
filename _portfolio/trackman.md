@@ -1,11 +1,8 @@
 ---
-title: "Reading the Game: Baseball Analytics as an Undergraduate Classroom"
-collection: teaching
-type: "Course project"
-permalink: /teaching/trackman-baseball-analytics/
-venue: "Transylvania University, Data Analytics"
-date: 2026-01-01
-location: "Lexington, Kentucky"
+title: "Reading the Game: Baseball Analytics in the Classroom"
+excerpt: "Students analyze TrackMan pitch-tracking data from Transylvania's baseball program and deliver findings to the coaching staff."
+collection: portfolio
+permalink: /portfolio/trackman/
 ---
 
 Students in Introduction to Data Analytics and Statistics analyze TrackMan pitch-tracking data from Transylvania's own baseball program and deliver their findings to the coaching staff.
@@ -28,7 +25,7 @@ The collaboration continued outside class. Students and players discussed visual
 
 Transylvania's *Third & Broadway* magazine covered the project in Summer 2026: [Reading the Game](https://www.transy.edu/third-and-broadway/summer-2026/reading-the-game/), by Stephen Russell.
 
-{% include video id="Tl47R2_NogE" provider="youtube" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tl47R2_NogE" title="Reading the Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What it grew into
 
