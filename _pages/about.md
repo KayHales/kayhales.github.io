@@ -6,10 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello!
+I am the Bingham Postdoctoral Teacher-Scholar at Transylvania University, where I teach in the Political Science program and the Data Analytics program. My work there spans teaching, program development and assessment, and quantitative methods training across the university.
 
-I am currently the Bingham Postdoctoral Teacher-Scholar at Transylvania University, where I do a mixture of program development and assessment, teaching, and university-wide trainings and workshops for the Data Science Program. My research focuses on using mixed-methods to study how stigmatization affects the health and group consciousness of LGBTQ+ people, with a particular focus on integrating minoritty stress theory with LGBTQ+ people's political behavior. I use a variety of methodologicl tools, including psychometrics, experimental design, Bayesian model averaging, machine learning, and qualitative data collection and analysis methods.
+Research
 
-My research agenda is broad. My current research agenda includes investigating how distal and proximal stressors shape heterogeneity in LGBTQ people's sense of linked fate, experimental designs to investigate the differential activation of linked fate, and utilizing Bayesian ensembling methods and Super Learners to investigate the link between political elites and constituent identity. My current projects with students involve using quantitative methods to explore the affects of SCOTUS gift receiving, machine learning algorithm bias in gender expression, and the political + psychological drivers of queer identification. 
+My research examines how politically meaningful group identities form among LGBTQ+ Americans, when those identities shape political behavior, and how researchers can measure those processes credibly in populations that are small, stigmatized, and difficult to sample. I treat the substantive and methodological sides of that agenda as one problem: studying identity as a process requires measures built around how members of a group understand themselves, and models that preserve variation conventional surveys obscure.
 
-Beyond my research, teaching is what really drives my passion and interest as an academic. I have taught a variety of both substantive and methodogological courses across in-person, online synchronous, and online ayschonronous modalities. In addition to the courses I have individually taught, I have taught a variety of workshops on topics ranging from using Python and R for legal/judicial research, causal inference using R for econometrics, baseball analytics, and epidemiological research methods using R and Python. I am committed to and fully believe in teaching students the importance of quantitative methods and data science along with their substantive learning. 
+I work with survey research, psychometrics, Bayesian multilevel modeling, experimental design, machine learning, and qualitative interviewing.
+
+Current projects include a dual-pathway model of how internalized stigma and identity affirmation shape LGBTQ+ people's sense of linked fate; a study on the ideology-partisanship link in sexual minorities; Bayesian methods for inference in small populations whose composition changes over time; and small-area estimation of latent political identity for institutional analysis.
+
+Teaching
+
+Teaching is what I most want to be good at. I have taught substantive and methodological courses in person, online synchronous, and online asynchronous, and I lead quantitative methods workshops across disciplines, including R and Python for judicial research, causal inference in econometrics, baseball analytics, survey and interview design, and R for epidemiological research.
+
+Working with students
+
+I supervise undergraduate research and look for projects with a genuine theoretical question, multiple methodological entry points, and components students can carry from design through interpretation. Current student projects examine whether "queer" and "LGBT" function as politically distinct identities, and how machine learning systems represent gender.
